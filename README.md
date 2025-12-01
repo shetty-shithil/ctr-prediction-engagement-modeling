@@ -1,2 +1,2 @@
-# ctr-prediction-engagement-modeling
-CTR prediction and engagement modeling for social media ads using exploratory analysis, feature engineering, and machine learning.
+# CTR Prediction & Engagement Modeling for Social Media Ads
+This project analyzes social media advertisement performance across platforms like Facebook and Instagram, focusing on Click-Through Rate (CTR), user engagement, and conversion behavior. Through exploratory data analysis, feature engineering, and machine learning models, we uncover the factors that drive user interactions and predict engagement outcomes.
