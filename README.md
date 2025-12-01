@@ -1,2 +1,2 @@
-# social-ad-engagement-modeling
+# social-ad-ctr-and-engagement-modeling
 Analysis and modeling of user engagement, CTR, and conversion behavior in social media advertisements using statistical and machine learning techniques.
